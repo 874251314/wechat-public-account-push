@@ -24,7 +24,7 @@ USE_PASSAGE: 'push-plus',
       id: '31436890f02241f8a606667662f9fd11',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // useTemplateId: '001',
-     useTemplateId: '001',
+     useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
