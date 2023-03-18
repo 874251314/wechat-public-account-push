@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxaa729204edc9c015',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'b08b6941693d29b6bd736a870aca63e9',
+  APP_SECRET: '',
 
   PROVINCE: '重庆',
   CITY: '重庆',
@@ -23,8 +23,8 @@ USE_PASSAGE: 'push-plus',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '31436890f02241f8a606667662f9fd11',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      // useTemplateId: 't_vj5uwIKMScGeKQY5BRTZcghyM-muZmWFLUjH5EkPg',
-      useTemplateId: '001',
+      // useTemplateId: '001',
+     useTemplateId: '001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
