@@ -14,7 +14,7 @@ USE_PASSAGE: 'push-plus',
   APP_SECRET: '',
 
   PROVINCE: '重庆',
-  CITY: '重庆',
+  CITY: '渝北',
 
   USERS: [
     {
