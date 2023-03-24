@@ -16,6 +16,8 @@ const TEMPLATE_CONFIG = [
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
       
+      {{notice.DATA}}
+      
       风向: {{wind_direction.DATA}}
       
       风级: {{wind_scale.DATA}}
@@ -30,11 +32,9 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{moment_copyrighting.DATA}}
+       {{note_en.DATA}}
       
-      ---
-      
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+       {{earthy_love_words.DATA}}
        
     `
   },
